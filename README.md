@@ -34,8 +34,10 @@ Using Python's TensorFlow library, the purpose of this project was to use deep l
 ### Compiling, Training, & Evaluating
 
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
-- Were you able to achieve the target model performance?
-- What steps did you take to try and increase model performance?
+- In [AlphabetSoupCharity.ipynb](AlphabetSoupCharity.ipynb), the model accuracy was 75%, which is not quite a good enough performance score for making predictions. 
+- To increase model performance in [AlphabetSoupCharity_Optimization.ipynb](AlphabetSoupCharity_Optimization.ipynb), we added additional hidden layers and additional neurons to the hidden layers.
 
 
 ## Summary
+
+![summary](Resources/summary%20pic.png)
